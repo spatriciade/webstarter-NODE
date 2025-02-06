@@ -1,0 +1,14 @@
+{
+  "name": "web-starter",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "serve": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "description": ""
+}
